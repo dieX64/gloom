@@ -1,0 +1,6 @@
+*.java
+*.lua
+src/
+projects/
+.idea/
+fast_output/
